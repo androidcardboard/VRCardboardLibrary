@@ -1,4 +1,4 @@
-#Google Cardboard VR Toolkit Library Project
+﻿#Google Cardboard VR Toolkit Library Project
 
 **CAUTION**: This is decompiled from JAR using JD-GUI. No guarantees.  
 
@@ -26,7 +26,7 @@ Very few modifications were done after decompiling cardboard.jar using JD-GUI to
 * The decompiler has replaced several named constants with the respective values. Left it so. 
 * Decompiler didn’t bother with proper line wrapping, nor did I.
 * Just one line class description comments for public classes/interfaces were added. 
-* For full comments, refer to Google's public documentation https://developers.google.com/cardboard/api/reference/packages
+* For full comments, refer to Google's public documentation https://developers.google.com/cardboard/overview or http://google-cardboard.blogspot.in
 
 Made a minor change to let volume buttons cause the same effect as magnet pull on cardboard.
 
