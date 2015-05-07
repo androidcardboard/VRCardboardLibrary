@@ -1,4 +1,5 @@
 ﻿#Google Cardboard VR Toolkit Library Project
+![Logo](http://4.bp.blogspot.com/-t5AJlgc9HEQ/VJuNIhbXM2I/AAAAAAAAA18/AJyvtqk7NeY/s1600/cardboadbg.jpg "Cardboard Home")
 
 **CAUTION**: This is decompiled from JAR using JD-GUI. No guarantees.  
 
